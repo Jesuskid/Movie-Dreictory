@@ -11,3 +11,6 @@ npm install
 npm run dev
 ```
 
+![image](https://github.com/Jesuskid/Movie-Dreictory/master/panda.jpeg?raw=true)
+
+
