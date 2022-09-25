@@ -3,7 +3,9 @@ import './index.css'
 import SearchIcon from './search.svg';
 import MovieCard from "./MovieCard";
 
-const API_URL = 'http://www.omdbapi.com/?i=tt3896198&apikey=9dfa6c1c'
+
+
+const API_URL = `http://www.omdbapi.com/?i=${import.meta.env.VITE_TT}&apikey=${import.meta.env.VITE_API_KEY}`
 
 
 const movie1 = {
